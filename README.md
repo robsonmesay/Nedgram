@@ -16,7 +16,7 @@ For the finished version of this project, go to [the last branch]().
 
 First, go to [Chat Engine](https://chatengine.io) and create a account and project.
 
-Find the Private Key `c2f82e63-9978-4c5c-9c17-8b0dec845dc6` and Project ID `b60a6d8b-d377-477e-af88-e47de35b3e89` then replace the values with your API keys.
+Find the Private Key `009ce45c-26ec-4b14-aace-2d8b922a900c` and Project ID `d3caa6ab-eb6b-40d9-9a98-e64f2747d1ed` then replace the values with your API keys.
 
 The project has been deleted so those keys won't work anymore.
 
